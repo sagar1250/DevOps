@@ -17,3 +17,7 @@ cd <main directory>
 cd ls  (we can find a list of all the files)
 
 we can download locally and do the changes and push it to github again.
+
+
+
+Azure Devops:
